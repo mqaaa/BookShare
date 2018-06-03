@@ -18,7 +18,7 @@ public class SqlInfo {
     //用户名
     private String user = "root";
     //用户密码
-    private String pwd = "junyunshidai";
+    private String pwd = "@@@@@@@@";
     //数据库链接对象
     private java.sql.Connection conn;
     //数据库命令执行对象
